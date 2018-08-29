@@ -24,13 +24,13 @@ git clone https://github.com/VergilSkye/PPRGO-Trabalho1.git
 npm install
 ```
 
-#### 3 - Execute o aplicativo
+### 3 - Execute o aplicativo
 
 ```bash
 npm start
 ```
 
-#### 4 - Gerando Executável
+### 4 - Gerando Executável
 
 ```bash
 npm run win64
