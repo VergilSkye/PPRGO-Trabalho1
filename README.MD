@@ -4,7 +4,7 @@
 ## Paradigmas da Programação
 
 ---
-Protótipo funcional de uma calculadora utilizando o framework Electron ![Icon Electron](https://cdn-images-1.medium.com/max/30/1*GS-t3eNz9Jy7YWKIxxmJPg.png), baseado em um template!:smile_cat:
+Protótipo funcional de uma calculadora utilizando o framework Electron ![Icon Electron](https://comsysto.files.wordpress.com/2015/09/electorn-logo-2.png?w=300&h=300), baseado em um template!:smile_cat:
 
 ### TODOS :clipboard:
 
