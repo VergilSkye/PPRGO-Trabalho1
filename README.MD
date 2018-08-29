@@ -6,7 +6,7 @@
 ---
 Protótipo funcional de uma calculadora utilizando o framework Electron ![Icon Electron](https://cdn-images-1.medium.com/max/30/1*GS-t3eNz9Jy7YWKIxxmJPg.png), baseado em um template!:smile_cat:
 
-### TODOS :clipboard
+### TODOS :clipboard:
 
 - [ ] Adicionar o botão backspacece
 
